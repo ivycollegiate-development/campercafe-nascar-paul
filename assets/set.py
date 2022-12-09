@@ -12,3 +12,6 @@ s.remove(2)
 
 #This is how you print and view the contents of the set that you've created.
 print(s)
+
+#This is how you find teh size of the set:
+print(f"The set has {len(s)} elements")
