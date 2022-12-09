@@ -8,6 +8,7 @@ s.add(3)
 s.add(4)
 s.add(1)
 
-#This is how you print and view the contents of the set that you've created.
+s.remove(2)
 
+#This is how you print and view the contents of the set that you've created.
 print(s)
