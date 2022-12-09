@@ -1,0 +1,5 @@
+# This is how you define a dictonary file in python
+houses = {"Harry": "Gryffindor", "Draco": "Slytherin"}
+
+#This is how you print out the dict in a console
+print(houses["Harry"])
