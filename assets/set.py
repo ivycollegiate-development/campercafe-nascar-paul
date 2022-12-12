@@ -7,8 +7,12 @@ s.add(2)
 s.add(3)
 s.add(4)
 s.add(1)
+s.add(6)
+s.add(7)
+
 
 s.remove(2)
+s.remove(4)
 
 #This is how you print and view the contents of the set that you've created.
 print(s)
