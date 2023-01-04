@@ -7,21 +7,14 @@ s.add(2)
 s.add(3)
 s.add(4)
 s.add(1)
-<<<<<<< HEAD
-s.add(6)
-=======
 s.add(6)
 s.add(7)
 s.add(8)
 s.add(9)
->>>>>>> cbb1c143a3830a03dbd701b3a3c201b434303ea8
 
 s.remove(2)
-<<<<<<< HEAD
 s.remove(3)
-=======
 s.remove(4)
->>>>>>> cbb1c143a3830a03dbd701b3a3c201b434303ea8
 
 #This is how you print and view the contents of the set that you've created.
 print(s)
